@@ -1,3 +1,18 @@
-<h1 align="center">Hi there, I'm Polina </h1>
-<h3 align="center">student studying software engineering and frontend</h3>
+## 👋 Привет!
 
+Я frontend-разработчик (junior / intern).  
+
+### 🔭 Сейчас работаю над
+- pet-проектами на React и JavaScript
+- практикой работы с API и состоянием
+
+### 🛠 Стек
+- HTML5, CSS3 
+- JavaScript (ES6+)
+- React 
+- Vite/Webpack
+- Figma
+
+### 📫 Связаться со мной
+Telegram: @bibittibobitti
+Email: ishnazarova.p@gmail.com
